@@ -3,7 +3,7 @@ var server = new Turn({
   // set options
   authMech: 'long-term',
   credentials: {
-    cross: "cross1"
+    3azAmBrKaGBsX2: "q5asWQkqx5uALw"
   }
 });
 server.start();
